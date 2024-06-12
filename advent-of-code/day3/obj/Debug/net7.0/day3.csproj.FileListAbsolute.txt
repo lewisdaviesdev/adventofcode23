@@ -1,0 +1,15 @@
+C:\Repos\adventofcode23\advent-of-code\day3\obj\Debug\net7.0\day3.csproj.AssemblyReference.cache
+C:\Repos\adventofcode23\advent-of-code\day3\obj\Debug\net7.0\day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\adventofcode23\advent-of-code\day3\obj\Debug\net7.0\day3.AssemblyInfoInputs.cache
+C:\Repos\adventofcode23\advent-of-code\day3\obj\Debug\net7.0\day3.AssemblyInfo.cs
+C:\Repos\adventofcode23\advent-of-code\day3\obj\Debug\net7.0\day3.csproj.CoreCompileInputs.cache
+C:\Repos\adventofcode23\advent-of-code\day3\bin\Debug\net7.0\day3.exe
+C:\Repos\adventofcode23\advent-of-code\day3\bin\Debug\net7.0\day3.deps.json
+C:\Repos\adventofcode23\advent-of-code\day3\bin\Debug\net7.0\day3.runtimeconfig.json
+C:\Repos\adventofcode23\advent-of-code\day3\bin\Debug\net7.0\day3.dll
+C:\Repos\adventofcode23\advent-of-code\day3\bin\Debug\net7.0\day3.pdb
+C:\Repos\adventofcode23\advent-of-code\day3\obj\Debug\net7.0\day3.dll
+C:\Repos\adventofcode23\advent-of-code\day3\obj\Debug\net7.0\refint\day3.dll
+C:\Repos\adventofcode23\advent-of-code\day3\obj\Debug\net7.0\day3.pdb
+C:\Repos\adventofcode23\advent-of-code\day3\obj\Debug\net7.0\day3.genruntimeconfig.cache
+C:\Repos\adventofcode23\advent-of-code\day3\obj\Debug\net7.0\ref\day3.dll
